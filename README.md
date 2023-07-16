@@ -31,5 +31,25 @@
     Then, run the Test.py and get the inference results in results/
   
 5. Streamlit
+   
+    Run the code below in Google colab:
+   
+        !streamlit run Streamlit.py & npx localtunnel --port 8501
 
-    Run the Streamlit.py
+    Copy the IP in External URL and visit your url
+   
+   ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/424c1310-8966-47b1-a734-f8e35f870a5e)
+    
+    Paste the IP you copied above into the field and click the "Click to Submit" button, like this:
+   
+   ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/2c832d92-c09f-496a-a01a-1e117eee8fcb)
+
+    Then, you can use the Streamlit app by uploading the PDF file from the testing dataset and see the result, like this:
+
+   ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/9c89a21b-f473-4cb6-8f50-91d574b78977)
+
+
+
+
+
+   
