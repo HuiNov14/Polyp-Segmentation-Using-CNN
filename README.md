@@ -1,6 +1,8 @@
 # Polyp_Segmentation
-# Use Google colab for training and testing
-# Environment setting
+  Use Google colab for training and testing
+  
+  Environment setting
+  
       !pip install torchstat
       !pip install thop
       !pip install streamlit
