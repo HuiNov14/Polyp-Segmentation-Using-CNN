@@ -1,4 +1,9 @@
 # Polyp_Segmentation
+# Use Google colab for training and testing
+# Environment setting
+      !pip install torchstat
+      !pip install thop
+      !pip install streamlit
 1. Training
    
     Download Pretrain_weight (hardnet68.pth): https://drive.google.com/file/d/1l0vh1ms9h0EJbof4vnV_Esj1C3Ad0n5a/view?usp=drive_link
