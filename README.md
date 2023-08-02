@@ -44,9 +44,9 @@
    
    ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/2c832d92-c09f-496a-a01a-1e117eee8fcb)
 
-    Then, you can use the Streamlit app by uploading the PDF file from the testing dataset and see the result, like this:
+    Then, you can use the Streamlit app by uploading the PDF file and see the result, like this:
 
-   ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/9c89a21b-f473-4cb6-8f50-91d574b78977)
+   ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/bcfe16ee-a3d0-41b2-9b95-8a88b5aca76a)
 
 # References
 ## HarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS
