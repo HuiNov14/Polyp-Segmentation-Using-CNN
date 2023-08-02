@@ -50,22 +50,22 @@
 
 # References
 ## HarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS
-Authors: Chien-Hsiang Huang, Hung-Yu Wu, Youn-Long Lin
+  Authors: Chien-Hsiang Huang, Hung-Yu Wu, Youn-Long Lin
 
-Year: 2021
+  Year: 2021
 
-Format: arXiv
+  Format: arXiv
 
 Link: [View here](https://arxiv.org/abs/2101.07172)
 
 ## Hardnet: A low memory traffic network
-Authors: Ping Chao, Chao-Yang Kao, Yu-Shan Ruan, Chien-Hsiang Huang, Youn-Long Lin
+  Authors: Ping Chao, Chao-Yang Kao, Yu-Shan Ruan, Chien-Hsiang Huang, Youn-Long Lin
 
-Year: 2019
+  Year: 2019
 
-Format: Proceedings of the IEEE International Conference on Computer Vision
+  Format: Proceedings of the IEEE International Conference on Computer Vision
 
-Citation: Pages 3552-3561
+  Citation: Pages 3552-3561
 
 
 
