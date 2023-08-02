@@ -48,7 +48,7 @@
 
    ![image](https://github.com/HuiNov14/Polyp_Segmentation/assets/137488321/9c89a21b-f473-4cb6-8f50-91d574b78977)
 
-
+Citaion: Huang, C. H., Wu, H. Y., & Lin, Y. L. (2021). Hardnet-mseg: A simple encoder-decoder polyp segmentation neural network that achieves over 0.9 mean dice and 86 fps. arXiv preprint arXiv:2101.07172.
 
 
 
